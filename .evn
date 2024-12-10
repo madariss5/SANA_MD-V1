@@ -1,0 +1,10 @@
+DATABASE_URL = 
+REMOVEBG_KEY = 'yepeTQaFk7r9ymusihgXYvdN'
+PREFIX = '.'
+MODE = 'public'
+autoRead= 'false'
+BOTNAME = 'SANA_MD-V1'
+antidelete = 'true'
+BOT_NUMBER= 
+OWNERS = 
+SESSION_ID = 
