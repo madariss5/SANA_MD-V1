@@ -360,9 +360,8 @@ npm install && npm start
 
 ## Credits
 
-| [![Guru322](https://github.com/sana3165829.png?size=100)](https://github.com/sana3165829) | [![FG98](https://github.com/FG98F.png?size=100)](https://github.com/FG98F) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
-| --- | --- | --- |
-| [Sana Khan](https://github.com/sana3165829) | [FG98](https://github.com/FG98F) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+| [![Sana Khan](https://github.com/sana3165829.png?size=100)] |
+| [Sana Khan](https://github.com/sana3165829) |
 
 
 
