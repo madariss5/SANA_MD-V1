@@ -84,7 +84,7 @@ To set up the SANA_MD-V1 quickly, follow our detailed tutorial on YouTube:
 ### **PAIRING CODE QR CODE**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![TOHID KHAN Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-md-web-pair-qr.onrender.com/)
+     [![TOHID KHAN Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://sana-md-web-pair-qr.onrender.com/)
 
 ### **Step-by-Step Deployment Guide**
 
