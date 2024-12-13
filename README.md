@@ -2,7 +2,7 @@
 #### MULTI DEVICE WHATSAPP BOT SANA_MD-V1 | STILL MANY HIDDEN COMMANDS
 
 <p align="center">  
-  <a href="https://youtu.be/Tohidkhan_6332">
+  <a href="https://youtube.com/@tohidkhan_6332">
     <img alt="SANA" src="https://i.imgur.com/nqCsIHZ.jpeg">
   </a>
 </p>
