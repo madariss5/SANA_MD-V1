@@ -6,31 +6,31 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
     const introText = `
  ◈ •╭═══ ━ ━ • ━ ━ ━ ═══♡᭄
  ◈ •│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
- ◈ •│ Name      : ᴛᴏʜɪᴅ-ᴋʜᴀɴ
+ ◈ •│ Name      : SANA-KHAN
  ◈ •│
- ◈ •│ Place      : ɪɴᴅɪᴀ
+ ◈ •│ Place      : PAKISTAN 
  ◈ •│
- ◈ •│ Gender    : ᴍᴀʟᴇ
+ ◈ •│ Gender    : 𝘍𝘦𝘮𝘢𝘭𝘦
  ◈ •│
- ◈ •│ Age       : 19_
+ ◈ •│ Age       : 18_
  ◈ •│
  ◈ •│ Status     : 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
  ◈ •│
- ◈ •│ Phone     : wa.me/917849917350
+ ◈ •│ Phone     : wa.me/923337468951
  ◈ •│
- ◈ •│ IG ID      : Tohidkhan6332
+ ◈ •│ Tiktok      : 𝘮𝘦𝘯𝘵𝘢𝘭_𝘲𝘶𝘦𝘦𝘯91
  ◈ •│
  ◈ •│ Connect   : https://tg-contact-form.vercel.app/
  ◈ •│
- ◈ •│ Github     : Tohidkhan6332
+ ◈ •│ Github     : https://github.com/sana3165829
  ◈ •│
- ◈ •│ Website    : https://tohid-web.vercel.app/
+ ◈ •│ Website    : https://sana-khan-web.vercel.app/
  ◈ •│
  ◈ •│ Skills       : 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
  ◈ •│
  ◈ •│ Lang       : 𝙴𝙽𝙶𝙻𝙸𝚂𝙷,
  ◈ •│
- ◈ •│ Project     : ᴛᴏʜɪᴅ-ᴋʜᴀɴ
+ ◈ •│ Project     : SANA_MD-V1
  ◈ •│
  ◈ •│ Hobbie     : 𝙲𝙾𝙳𝙸𝙽𝙶,𝙱𝙾𝚃𝚂
  ◈ •│
@@ -46,15 +46,15 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
       console.log("Error fetching profile picture:", e);
     }
 
-    const sourceUrl = 'https://Github.com/Tohidkhan6332/TOHID-KHAN'; // Example source URL for the card
+    const sourceUrl = 'https://github.com/sana3165829/SANA_MD-V1'; // Example source URL for the card
 
     const contextInfo = {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'TOHID-KHAN', // Title of the card
+        title: 'SANA-KHAN', // Title of the card
         body: '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯',
-        thumbnailUrl: 'https://github.com/Tohidkhan6332.png', // Fixed URL syntax with quotes
-        mediaUrl: 'https://github.com/Tohidkhan6332.png', // Fixed URL syntax with quotes
+        thumbnailUrl: 'https://github.com/sana3165829.png', // Fixed URL syntax with quotes
+        mediaUrl: 'https://github.com/sana3165829.png', // Fixed URL syntax with quotes
         sourceUrl: sourceUrl, // Source URL for the card
       },
     };
